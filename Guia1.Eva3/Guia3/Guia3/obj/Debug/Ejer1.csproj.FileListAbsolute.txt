@@ -1,0 +1,14 @@
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Guia3.exe.config
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Guia3.exe
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Guia3.pdb
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Ejer2.exe
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Ejer2.pdb
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\bin\Debug\Ejer2.exe.config
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Ejer1.csprojAssemblyReference.cache
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Guia3.Form1.resources
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Guia3.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Ejer1.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Ejer1.csproj.CopyComplete
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Guia3.exe
+C:\Users\Soporte\Desktop\Guia3.Eva3\Guia3\Guia3\obj\Debug\Guia3.pdb
